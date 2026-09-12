@@ -1,0 +1,59 @@
+{
+  "slug": "ia-generative-low-code-pme-afrique",
+  "title": "Créer des applications IA générative en low‑code pour les PME africaines",
+  "description": "Apprenez à concevoir rapidement des solutions IA génératives sans écrire de code, en utilisant des plateformes low‑code adaptées aux besoins des petites entreprises en Afrique.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "IA générative",
+    "low‑code",
+    "PME",
+    "Afrique",
+    "automatisation"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction-ia-generative.md",
+      "title": "Introduction à l’IA générative et aux enjeux pour les PME africaines"
+    },
+    {
+      "file": "02-concepts-de-base-low-code.md",
+      "title": "Concepts de base du low‑code : pourquoi et comment ça fonctionne"
+    },
+    {
+      "file": "03-choisir-plateforme-ia-low-code.md",
+      "title": "Sélectionner une plateforme low‑code IA adaptée aux PME africaines"
+    },
+    {
+      "file": "04-premiers-pas-avec-une-plateforme.md",
+      "title": "Premiers pas : créer votre premier prototype d’application IA"
+    },
+    {
+      "file": "05-traitement-des-donnees-locales.md",
+      "title": "Gestion des données locales et sécurisation pour les PME"
+    },
+    {
+      "file": "06-integration-api-ia-generative.md",
+      "title": "Intégrer les API d’IA générative (OpenAI, Cohere, etc.) en low‑code"
+    },
+    {
+      "file": "07-automatisation-des-processus-pme.md",
+      "title": "Automatiser les processus métiers avec l’IA générative"
+    },
+    {
+      "file": "08-optimisation-et-scaling.md",
+      "title": "Optimiser la performance et préparer le scaling de votre application IA"
+    },
+    {
+      "file": "09-projet-pratique-application-vente.md",
+      "title": "Projet pratique : Application IA de recommandation de produits pour un commerce local"
+    },
+    {
+      "file": "10-presentation-et-deploiement.md",
+      "title": "Présenter, tester et déployer votre solution IA auprès des clients"
+    }
+  ]
+}
